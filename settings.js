@@ -79,7 +79,7 @@ global.imagen3 = fs.readFileSync('./media/menu3.jpg')
 global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 
 //---------[ ENLACE ]---------
-global.md = 'https://github.com/Nayee'
+global.md = 'https://github.com/Nayee/NuevoBot'
 global.yt = 'https://es.pornhub.com'
 global.tiktok = 'https://es.pornhub.com'
 global.faceb = 'https://es.pornhub.com'
