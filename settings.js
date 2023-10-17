@@ -84,15 +84,15 @@ global.yt = 'https://es.pornhub.com'
 global.tiktok = 'https://es.pornhub.com'
 global.faceb = 'https://es.pornhub.com'
 
-global.nna = 'https://chat.whatsapp.com/KlqNmoUcVnsGJxIfATIDrK' //Update 
-global.nn = 'https://chat.whatsapp.com/C6sxsP2ckrr2vxMKclOeCD' //LoliBot
-global.nn2 = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //Loli & Nova
-global.nn3 = 'https://chat.whatsapp.com/IlyJBy1fxcw2qAHLSC5YLa' //Grupo de Colaboracion
-global.nn4 = 'https://chat.whatsapp.com/K7RzcVdxGqhGP5dCpVENSI' // Grupo COL 2
-global.nn5 = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //Grupo COL 3
-global.nn6 = 'https://chat.whatsapp.com/CKnomE19yR0IEmM571RvRm' //test
-global.nn7 = 'https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs' //Grupo ayuda sobre el bot
-global.nn8 = 'https://chat.whatsapp.com/FUrq67MddDH25jUqrxeevr' //enlace lolibot
+global.nna = 'https://chat.whatsapp.com/GBtCQCqJtjb4ARqVfyThsS' //Update 
+global.nn = 'https://chat.whatsapp.com/GBtCQCqJtjb4ARqVfyThsS' //hachiko 
+global.nn2 = 'https://chat.whatsapp.com/GBtCQCqJtjb4ARqVfyThsS' //Nova
+global.nn3 = 'https://chat.whatsapp.com/GBtCQCqJtjb4ARqVfyThsS' //Grupo de Colaboracion
+global.nn4 = 'https://chat.whatsapp.com/GBtCQCqJtjb4ARqVfyThsS' // Grupo 
+global.nn5 = 'https://chat.whatsapp.com/GBtCQCqJtjb4ARqVfyThsS' //Grupo 
+global.nn6 = 'https://chat.whatsapp.com/GBtCQCqJtjb4ARqVfyThsS' //test
+global.nn7 = 'https://chat.whatsapp.com/GBtCQCqJtjb4ARqVfyThsS' //Grupo ayuda sobre el bot
+global.nn8 = 'https://chat.whatsapp.com/GBtCQCqJtjb4ARqVfyThsS' //enlace 
 global.nna2 = 'CKnomE19yR0IEmM571RvRm'
 
 //---------[ INFO ]--------- 
